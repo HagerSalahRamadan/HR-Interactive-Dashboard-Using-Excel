@@ -45,9 +45,7 @@
 ### 2. Column Chart (Employee Distribution by Age)
 
    - The majority of employees fall within the 22-26 and 42-46 age brackets.
-
    - The number of employees decreases as the age range increases beyond 50.
-
    - There is a balanced age distribution with a slight decline in older employees.
    
 
@@ -55,24 +53,19 @@
 ### 3. Doughnut Chart (Employee Distribution by Gender)
 
    - The gender distribution is fairly balanced, with 52% male and 48% female employees.
-
    - There is no significant gender disparity in hiring.
-
 
 
 ### 4. Combo Chart (Total Salaries and Overtime Hours per Department)
 
    - The salaries are fairly distributed across departments, with Technology having the highest total salaries and overtime.
-
    - Some departments (e.g., Finance) show lower overtime despite comparable salaries.
-
    - The relationship between salaries and overtime varies, indicating possible differences in workload distribution.
 
 
 ### 5. Doughnut Chart (Employees Who Received Promotions)
 
    - The promotion distribution is almost equal, with 51% of employees receiving promotions and 49% not receiving them.
-
    - This indicates a balanced promotion process, but a nearly 50% non-promotion rate suggests room for improvement.
 
 
@@ -80,7 +73,6 @@
 ### 6. Bar Chart ( Employee Count Based on Performance Rating)
 
    - The majority of employees have performance ratings of 5 (highest) and 1 (lowest).
-
    - There is a noticeable number of employees in the lower rating categories (1 and 2), indicating possible performance issues.
 
 
